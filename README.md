@@ -9,7 +9,7 @@
 Ionic CLI - If you don't have the ionic CLI installed refer [official documentation](https://ionicframework.com/docs/intro/cli) for the installation instructions.
 
 
-# Build Notes (Users)
+# Build notes- Users
 
 1. Download the app from [release](https://github.com/hotwax/bopis/releases) page and extract it.
 2. Go to the app directory.
@@ -19,7 +19,7 @@ Ionic CLI - If you don't have the ionic CLI installed refer [official documentat
 5. To run the app in browser use the command: `ionic serve`
 
 
-# Build Notes (Contributors)
+# Build notes- Contributors
 
 1. Open a Terminal window
 2. Clone app using the command: `git clone https://github.com/hotwax/bopis.git <repository-name>`
@@ -29,7 +29,7 @@ Ionic CLI - If you don't have the ionic CLI installed refer [official documentat
 5. Create a `.env` file by taking reference from the `.env.example` and change the `VUE_APP_BASE_URL` to the instance you want to connect the app.
 6. To run the app in browser use the command: `ionic serve`
 
-## Firebase Hosting
+## Firebase hosting
 
 We are using firebase hosting for the Bopis app deployment
 Here are the steps to deploy app on firebase hosting
@@ -53,7 +53,7 @@ Here are the steps to deploy app on firebase hosting
 - Run following command to deploy to firebase hosting
   `firebase deploy --only hosting:sm-dev`
 
-## How to build application in different environment or modes(staging, production, qa, etc)?
+## How to build application in different environment or modes(Development, UAT, Production etc)?
 
 As there is a bug in Ionic cli due to which we cannot pass flag variables for commands (See [#4669](https://github.com/ionic-team/ionic-cli/issues/4642)). To build application in different modes we need to use vue-cli-service to build and then use the built app using capacitor copy command further.
 
@@ -69,7 +69,7 @@ Follow following instructions:
    ionic capacitor open android  
    ionic capacitor open ios
 
-# Contribution Guideline
+# Contribution guideline
 
 1. Fork the repository and clone it locally from the `main` branch. Before starting your work make sure it's up to date with current `main` branch.
 2. Pick an issue from [here](https://github.com/hotwax/bopis/issues). Write in the issue comment that you want to pick it, if you can't assign yourself. **Please stay assigned to one issue at a time to not block others**.
@@ -90,10 +90,10 @@ Always define the type of issue:
 * Feature request
 
 While writing issues, please be as specific as possible. All requests regarding support with implementation or application setup should be sent to.
-# UI / UX Resources
+# UI/UX resources
 You may find some useful resources for improving the UI / UX of the app <a href="https://www.figma.com/community/file/885791511781717756" target="_blank">here</a>.
 
-# Join the community on Discord
+# Join the community on discord
 If you have any questions or ideas feel free to join our <a href="https://discord.gg/SwpJnpdyg3" target="_blank">Discord channel</a>.
     
 # The license
