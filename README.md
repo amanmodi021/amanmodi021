@@ -105,7 +105,7 @@ Follow following instructions:
 
 If you can't handle some parts of the issue then please ask for help in the comment. If you have any problems during the implementation of some complex issue, feel free to implement just a part of it.
 
-## Report a bug or request a feature
+# Report a bug or request a feature
 
 Always define the type of issue:
 * Bug report
