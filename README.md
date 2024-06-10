@@ -2,6 +2,13 @@
 
 ![Bopis](gitbanner2.png)
 
+[![HOTWAX COMMERCE](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](https://flutter-dashboard.appspot.com/#/build?repo=flutter)
+[![codecov](https://codecov.io/gh/flutter/flutter/branch/master/graph/badge.svg?token=11yDrJU2M2)](https://codecov.io/gh/flutter/flutter)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/flutter/flutter/badge)](https://deps.dev/project/github/flutter%2Fflutter)
+[![SLSA 1](https://www.hotwax.co/)](https://slsa.dev)
+<a href="https://www.hotwax.co/"><img alt="HOTWAX" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+
 
 # Bopis App - Buy Online and Pickup at Store
 ##   Effortlessly combine online shopping with convenient in-store pickup for a superior retail experience
