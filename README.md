@@ -5,13 +5,7 @@
 <a href="https://www.hotwax.co/"><img alt="HOTWAX" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
 [![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
 
-[![Blog](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/bl.svg)](https://blog.praveen.science/) 
 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) 
-
-[![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/praveenscience) 
-
-[![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://youtube.com/praveenscience)
 
 
 # Bopis App - Buy Online and Pickup at Store
