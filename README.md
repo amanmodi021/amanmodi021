@@ -19,6 +19,7 @@ Our BOPIS (Buy Online, Pick Up In-Store) app enhances the retail shopping experi
 - **Flexible Pickup Scheduling**: Select your preferred pickup time to match your schedule.
 - **Timely Notifications**: Receive alerts and updates on your order status and readiness for pickup.
 - **Robust Customer Support**: Access assistance and answers to common questions through chat or call features.
+  
 By bridging the gap between digital and physical retail, our BOPIS app provides a comprehensive and user-friendly shopping alternative that boosts customer satisfaction and streamlines operations for retailers.
 
 
