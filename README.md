@@ -1,4 +1,4 @@
-![BOPIS app repo] (https://github.com/amanmodi021/amanmodi021/blob/ef3d20ab36955a5b08a29ff81510248c00f87afc/gitbanner.png)
+![BOPIS app repo](gitbanner.png)
 
 - 👋 Hi, I’m @amanmodi021
 - 👀 I’m interested in ...
