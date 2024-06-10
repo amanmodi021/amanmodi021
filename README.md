@@ -1,6 +1,6 @@
 ![BOPIS app repo](gitbanner.png)
 
-![Bopis](gitbanner2
+![Bopis](gitbanner2.png)
 
 - 👋 Hi, I’m @amanmodi021
 - 👀 I’m interested in ...
