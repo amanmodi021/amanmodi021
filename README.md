@@ -1,5 +1,7 @@
 ![BOPIS app repo](gitbanner.png)
 
+(gitbanner2.png)
+
 - 👋 Hi, I’m @amanmodi021
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
