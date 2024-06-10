@@ -12,7 +12,7 @@
 BOPIS App: A Seamless Buy Online, Pick Up In-Store Solution
 Our BOPIS (Buy Online, Pick Up In-Store) app enhances the retail shopping experience by combining the convenience of online shopping with the immediacy of in-store pickup. Perfect for modern shoppers and retailers alike, this app offers a flexible and efficient solution for purchasing and collecting goods.
 ## Key Features of the BOPIS App:
-- Product Browsing: Easily explore a wide range of products available at nearby store locations.
+- **Product Browsing**: Easily explore a wide range of products available at nearby store locations.
 - Real-Time Inventory: Stay updated with live stock levels to ensure items are available for immediate pickup.
 - Seamless Order Placement: Enjoy a smooth online ordering process with secure payment options.
 - Convenient Store Selection: Choose the most convenient pickup location based on proximity and product availability.
