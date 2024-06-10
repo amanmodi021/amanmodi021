@@ -2,6 +2,7 @@
 
 ![Bopis](gitbanner2.png)
 
+![Bopis](BOPISgit.png)
 - 👋 Hi, I’m @amanmodi021
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
