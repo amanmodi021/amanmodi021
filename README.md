@@ -1,4 +1,4 @@
-![BOPIS app repo](gitbanner.png)
+
 
 ![Bopis](gitbanner2.png)
 
