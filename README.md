@@ -1,7 +1,8 @@
-
+![Bopis](gitbanner.png)
 
 ![Bopis](gitbanner2.png)
-![Bopis](gitbanner.png)
+
+![Bopis](gitbanner3.png)
 
 
 <a href="https://www.hotwax.co/"><img alt="HOTWAX" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
