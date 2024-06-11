@@ -30,7 +30,7 @@ Our BOPIS (Buy Online, Pick Up In-Store) app enhances the retail shopping experi
 By bridging the gap between digital and physical retail, our BOPIS app provides a comprehensive and user-friendly shopping alternative that boosts customer satisfaction and streamlines operations for retailers.
 
 
-
+![Bopis](BOPISgit.png)
 ![Bopis](BOPISTESTGIT.png)
 
 ![Bopis](BOPISTESTGIT3.png)
@@ -39,7 +39,7 @@ By bridging the gap between digital and physical retail, our BOPIS app provides 
 ![Bopis](BOPISTESTGIT5.png)
 
 
-![Bopis](BOPISgit.png)
+
 
 # Prerequisite
 Ionic CLI - If you don't have the ionic CLI installed refer [official documentation](https://ionicframework.com/docs/intro/cli) for the installation instructions.
