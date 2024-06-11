@@ -3,6 +3,7 @@
 ![Bopis](gitbanner2.png)
 ![Bopis](gitbanner.png)
 
+
 <a href="https://www.hotwax.co/"><img alt="HOTWAX" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
 [![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://www.hotwax.co/) 
 
@@ -35,6 +36,8 @@ By bridging the gap between digital and physical retail, our BOPIS app provides 
 ![Bopis](BOPISTESTGIT3.png)
 
 ![Bopis](BOPISTESTGIT4.png)
+![Bopis](BOPISTESTGIT5.png)
+
 
 ![Bopis](BOPISgit.png)
 
