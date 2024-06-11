@@ -33,6 +33,8 @@ By bridging the gap between digital and physical retail, our BOPIS app provides 
 
 ![Bopis](BOPISTESTGIT3.png)
 
+![Bopis](BOPISTESTGIT4.png)
+
 ![Bopis](BOPISgit.png)
 
 # Prerequisite
