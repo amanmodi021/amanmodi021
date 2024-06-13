@@ -1,6 +1,3 @@
-![Bopis](gitbanner.png)
-
-![Bopis](gitbanner2.png)
 
 ![Bopis](gitbanner3.png)
 
