@@ -30,16 +30,8 @@ Our BOPIS (Buy Online, Pick Up In-Store) app enhances the retail shopping experi
   
 By bridging the gap between digital and physical retail, our BOPIS app provides a comprehensive and user-friendly shopping alternative that boosts customer satisfaction and streamlines operations for retailers.
 
- <! --- 
-![Bopis](BOPISgit.png)
-![Bopis](BOPISTESTGIT.png)
 
-![Bopis](BOPISTESTGIT3.png)
 
-![Bopis](BOPISTESTGIT4.png)
-![Bopis](BOPISTESTGIT5.png)
-![Bopis](BOPISTESTGIT6.png)
-![Bopis](BOPISTESTGIT7.png) --- !>
 ![Bopis](BopisGITHUB.png)  
 
 
