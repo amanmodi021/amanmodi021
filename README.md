@@ -29,7 +29,8 @@ By bridging the gap between digital and physical retail, our BOPIS app provides 
 
 
 
-![Bopis](BopisGITHUB.png)  
+![Bopis](BopisGITHUB.png)
+![Bopis](BopisGITHUB2.png)
 
 
 
