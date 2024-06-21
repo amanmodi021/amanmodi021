@@ -1,6 +1,7 @@
 
 ![Bopis](gitF.png)
 ![Bopis](posterTEST.png)
+![Bopis](posterTEST2.png)
 
 
 <a href="https://www.hotwax.co/"><img alt="HOTWAX" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
