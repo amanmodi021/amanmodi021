@@ -1,6 +1,6 @@
 
 ![Bopis](gitF.png)
-![Bopis](posterTEST.png)
+
 ![Bopis](posterTEST2.png)
 ![Bopis](posterTEST3.png)
 ![Bopis](poster2TEST4.png)
